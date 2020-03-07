@@ -21,3 +21,6 @@ the first file and the alpha_3 variables to merge the two files
 the third file
 https://gist.github.com/othmanoss/27dbe797a05546baf36cf6899eb621c6
 this file has the arabic nationalities with english as key , we used it for the merge with the merge of the above 2 files.
+
+raw_data.zip
+The files above 3 files that we used to gerenate the final JSON. 
